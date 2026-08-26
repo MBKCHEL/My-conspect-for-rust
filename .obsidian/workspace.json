@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Audio/🎧Rodio - крейт воспроизведение звука в Rust.md",
+                "file": "rust/🧬Векторы в Rust Vec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🎧Rodio - крейт воспроизведение звука в Rust"
+              "title": "🧬Векторы в Rust Vec"
             }
           },
           {
@@ -384,6 +384,7 @@
   },
   "active": "e1a705a82360f129",
   "lastOpenFiles": [
+    "Audio/🎧Rodio - крейт воспроизведение звука в Rust.md",
     "CLI terminal/🐀Крейт Ratatui для CLI и терминала.md",
     "rust/🏛Structs & impl в Rust.md",
     "rust/🖥Rust - Вывод текста через println!.md",
@@ -410,7 +411,6 @@
     "rust/🔁Все циклы в Rust (loop, while, for).md",
     "rust/📦Всё о Cargo и всё о rustup Rust.md",
     "rust/📥Ввод данных, Затенение, Turbofish и Кастинг в Rust.md",
-    "rust/📦Блоки-Выражения (Block Expressions) в RUst.md",
     "Pasted image 20260824151424.png",
     "LICENSE",
     "FileSystem",
