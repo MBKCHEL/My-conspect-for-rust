@@ -190,6 +190,20 @@
             }
           },
           {
+            "id": "2942622794be4423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/⚙️! Макросы в Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚙️! Макросы в Rust"
+            }
+          },
+          {
             "id": "e83f21f5dee4648e",
             "type": "leaf",
             "state": {
@@ -218,7 +232,7 @@
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 13
       }
     ],
     "direction": "vertical"
@@ -382,8 +396,10 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "e1a705a82360f129",
+  "active": "2942622794be4423",
   "lastOpenFiles": [
+    "rust/🧬Векторы в Rust Vec.md",
+    "rust/⚙️! Макросы в Rust.md",
     "Audio/🎧Rodio - крейт воспроизведение звука в Rust.md",
     "CLI terminal/🐀Крейт Ratatui для CLI и терминала.md",
     "rust/🏛Structs & impl в Rust.md",
@@ -406,11 +422,9 @@
     "rust/🧮Массивы в языке Rust.md",
     "rust/🧱Кортежи в языке Rust.md",
     "rust/🔒Константы в языке Rust.md",
-    "rust/🧬Векторы в Rust Vec.md",
     "rust/🔀Конвертация типов в Rust (Option, Result, числа и типы).md",
     "rust/🔁Все циклы в Rust (loop, while, for).md",
     "rust/📦Всё о Cargo и всё о rustup Rust.md",
-    "rust/📥Ввод данных, Затенение, Turbofish и Кастинг в Rust.md",
     "Pasted image 20260824151424.png",
     "LICENSE",
     "FileSystem",
