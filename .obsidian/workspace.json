@@ -209,12 +209,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/🛠️ Текстовые буферы в Rust.md",
+                "file": "rust/🏛Structs & impl в Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🛠️ Текстовые буферы в Rust"
+              "title": "🏛Structs & impl в Rust"
+            }
+          },
+          {
+            "id": "a486ea2e88ab2326",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/⚡ HashMap в Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚡ HashMap в Rust"
             }
           },
           {
@@ -246,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -410,35 +424,35 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9441ffc87cb59db1",
+  "active": "2035557946eb3cdc",
   "lastOpenFiles": [
-    "rust/🛠️ Полезные функции в Rust.md",
+    "rust/🏛Structs & impl в Rust.md",
+    "rust/⚡ HashMap в Rust.md",
+    "rust/❓Option<T>, Some и None в Rust.md",
+    "rust/🎯Match в Rust - аналог иф елсе или свитч кейсов.md",
+    "rust/🏷enum (Перечисления) в Rust.md",
+    "rust/🐙GIt commands.md",
+    "rust/📊Enum Ordering в Rust.md",
+    "rust/📌Переменные в Rust.md",
+    "rust/📚Стек (Stack) vs Куча (Heap).md",
+    "rust/📝Модификация строк через push_str в Rust.md",
+    "rust/📥Ввод данных, Затенение, Turbofish и Кастинг в Rust.md",
+    "rust/📦Блоки-Выражения (Block Expressions) в RUst.md",
+    "rust/📦Всё о Cargo и всё о rustup Rust.md",
+    "rust/🔀Конвертация типов в Rust (Option, Result, числа и типы).md",
+    "rust/🔀Else-if в Rust.md",
+    "rust/🔁Все циклы в Rust (loop, while, for).md",
+    "rust/🔄 Итераторы в Rust (Iterator).md",
+    "rust/🔒Константы в языке Rust.md",
+    "rust/🖥Rust - Вывод текста через println!.md",
+    "rust/🧠Управление памятью в Rust (Ownership & Borrowing).md",
+    "rust/🧩Модульная система и разделение на файлы в Rust.md",
     "rust/🛠️ Текстовые буферы в Rust.md",
+    "rust/🛠️ Полезные функции в Rust.md",
     "rust/⚙️! Макросы в Rust.md",
     "rust/🧬Векторы в Rust Vec.md",
     "Audio/🎧Rodio - крейт воспроизведение звука в Rust.md",
-    "CLI terminal/🐀Крейт Ratatui для CLI и терминала.md",
-    "rust/🏛Structs & impl в Rust.md",
-    "rust/🖥Rust - Вывод текста через println!.md",
     "rust/Pasted image 20260723124517.png",
-    "rust/❓Option<T>, Some и None в Rust.md",
-    "rust/🎯Match в Rust - аналог иф елсе или свитч кейсов.md",
-    "rust/🐙GIt commands.md",
-    "rust/📊Enum Ordering в Rust.md",
-    "rust/🏷enum (Перечисления) в Rust.md",
-    "rust/🔀Else-if в Rust.md",
-    "rust/⚡️Функции в Rust.md",
-    "rust/🧠Управление памятью в Rust (Ownership & Borrowing).md",
-    "rust/📚Стек (Stack) vs Куча (Heap).md",
-    "rust/✂️Срезы в Rust (Slice Type).md",
-    "rust/📌Переменные в Rust.md",
-    "rust/🧩Модульная система и разделение на файлы в Rust.md",
-    "rust/📝Модификация строк через push_str в Rust.md",
-    "rust/🧮Массивы в языке Rust.md",
-    "rust/🧱Кортежи в языке Rust.md",
-    "rust/🔒Константы в языке Rust.md",
-    "rust/🔀Конвертация типов в Rust (Option, Result, числа и типы).md",
-    "rust/🔁Все циклы в Rust (loop, while, for).md",
     "Pasted image 20260824151424.png",
     "LICENSE",
     "FileSystem",
