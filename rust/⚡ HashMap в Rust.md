@@ -154,18 +154,10 @@ fn main() {
     // 4. Вывод конкретно по ключу
     
     let mut map_1 = HashMap::new();
-    map.insert("net_card", "Intel AX200");
+    map_1.insert(10, "Intel AX200");
 
     // Вариант 1: Через unwrap_or (если ключа нет, выведет дефолтный текст)
-    println!("Сетевуха: {}", map_1.get("net_card").unwrap_or(&"Не найдена"));
-
-    // Вариант 2: Через pattern matching (if let)
-    if let Some(gpu) = map_1.get("GPU") {
-        println!("Видяха: {gpu}");
-    } else {
-        println!("Видяха не указана!");
-    }
-}
+    println!("Сетевуха: {}", map_1.get(&10).unwrap_or(&"netu"));
 ```
 
 ### 📌 Шпаргалка
