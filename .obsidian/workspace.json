@@ -223,12 +223,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "rust/⚡ HashMap в Rust.md",
+                "file": "rust/❓Option<T>, Some и None в Rust.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "⚡ HashMap в Rust"
+              "title": "❓Option<T>, Some и None в Rust"
+            }
+          },
+          {
+            "id": "437e43651724a0f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "rust/⚠️Обработка ошибок в Rust.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "⚠️Обработка ошибок в Rust"
             }
           },
           {
@@ -260,7 +274,7 @@
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 16
       }
     ],
     "direction": "vertical"
@@ -424,34 +438,34 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "2035557946eb3cdc",
+  "active": "437e43651724a0f9",
   "lastOpenFiles": [
-    "rust/🏛Structs & impl в Rust.md",
-    "rust/⚡ HashMap в Rust.md",
-    "rust/❓Option<T>, Some и None в Rust.md",
-    "rust/🎯Match в Rust - аналог иф елсе или свитч кейсов.md",
-    "rust/🏷enum (Перечисления) в Rust.md",
-    "rust/🐙GIt commands.md",
-    "rust/📊Enum Ordering в Rust.md",
-    "rust/📌Переменные в Rust.md",
-    "rust/📚Стек (Stack) vs Куча (Heap).md",
     "rust/📝Модификация строк через push_str в Rust.md",
     "rust/📥Ввод данных, Затенение, Turbofish и Кастинг в Rust.md",
-    "rust/📦Блоки-Выражения (Block Expressions) в RUst.md",
-    "rust/📦Всё о Cargo и всё о rustup Rust.md",
-    "rust/🔀Конвертация типов в Rust (Option, Result, числа и типы).md",
-    "rust/🔀Else-if в Rust.md",
     "rust/🔁Все циклы в Rust (loop, while, for).md",
     "rust/🔄 Итераторы в Rust (Iterator).md",
     "rust/🔒Константы в языке Rust.md",
-    "rust/🖥Rust - Вывод текста через println!.md",
+    "rust/🖥 Rust - Вывод текста через println!.md",
     "rust/🧠Управление памятью в Rust (Ownership & Borrowing).md",
+    "rust/🔀Конвертация типов в Rust (Option, Result, числа и типы).md",
+    "rust/🔀Else-if в Rust.md",
+    "rust/📊Enum Ordering в Rust.md",
+    "rust/⚙️! Макросы в Rust.md",
+    "rust/⚠️Обработка ошибок в Rust.md",
+    "rust/❓Option<T>, Some и None в Rust.md",
+    "rust/⚡ HashMap в Rust.md",
+    "rust/🏛Structs & impl в Rust.md",
+    "rust/🎯Match в Rust - аналог иф елсе или свитч кейсов.md",
+    "rust/🏷enum (Перечисления) в Rust.md",
+    "rust/🐙GIt commands.md",
+    "rust/📌Переменные в Rust.md",
+    "rust/📚Стек (Stack) vs Куча (Heap).md",
+    "rust/📦Блоки-Выражения (Block Expressions) в RUst.md",
+    "rust/📦Всё о Cargo и всё о rustup Rust.md",
     "rust/🧩Модульная система и разделение на файлы в Rust.md",
     "rust/🛠️ Текстовые буферы в Rust.md",
     "rust/🛠️ Полезные функции в Rust.md",
-    "rust/⚙️! Макросы в Rust.md",
     "rust/🧬Векторы в Rust Vec.md",
-    "Audio/🎧Rodio - крейт воспроизведение звука в Rust.md",
     "rust/Pasted image 20260723124517.png",
     "Pasted image 20260824151424.png",
     "LICENSE",
